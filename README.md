@@ -5,6 +5,8 @@ Across all business segments today, technology is driving transformational chang
 
 Software engineers need to stay on top of their knowledge and know what other tech companies are doing to solve their problems. Having a better understanding of their stories will help us in the future to solve our problems efficiently.
 
+![software](https://user-images.githubusercontent.com/22215824/188120426-45abc107-5454-462d-af69-d2e5cd284440.jpeg)
+
 Below is a list of the top technology blogs worldwide, as determined by their up-to-date content.
 
 
